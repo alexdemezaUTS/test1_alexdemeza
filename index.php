@@ -7,5 +7,6 @@
 </head>
 <body>
     Bien venido a la página de Alex xdxd
+    <button onclick="window.location.href='acercade.php';">Ir a Acerca de</button>
 </body>
 </html>
