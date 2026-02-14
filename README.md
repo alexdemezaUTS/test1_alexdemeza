@@ -8,3 +8,11 @@ Universidad Tecnologixa de la Selva
 ## Lugar de procedencia
 
 Ocosingo, Chiapas. 2026
+
+## NOMBRE
+
+Nombre:Alex Fernando Demeza Hernandez
+
+## CARRERA
+
+Desarrollo y Gestion de Software
